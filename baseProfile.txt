@@ -1,5 +1,5 @@
 jumpcloud-password-manager
 python
 powershell
-windsurf
+tap:codeium/windsurf
 openvpn-connect
