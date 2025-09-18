@@ -1,0 +1,5 @@
+jumpcloud-password-manager
+python
+powershell
+windsurf
+openvpn-connect
