@@ -1,4 +1,5 @@
 jumpcloud-password-manager
+firefox
 python
 powershell
 windsurf
