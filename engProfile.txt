@@ -13,3 +13,4 @@ github
 insomnia
 mysqlworkbench
 wireshark
+spotify
