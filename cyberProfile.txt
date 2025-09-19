@@ -1,0 +1,10 @@
+burp-suite 
+chromium 
+spotify 
+visual-studio-code 
+github 
+obsidian 
+postman 
+warp 
+owasp-zap
+tsh
