@@ -1,0 +1,8 @@
+visual-studio-code
+teleport
+discord
+microsoft-auto-update
+postman
+wireshark
+ffmpeg
+shottr
