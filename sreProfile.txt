@@ -1,5 +1,5 @@
 visual-studio-code
-teleport
+teleport@16.4.7
 discord
 postman
 wireshark
