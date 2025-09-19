@@ -1,0 +1,15 @@
+visual-studio-code
+postman
+dbeaver-community
+discord
+microsoft-teams
+microsoft-auto-update
+warp
+chromium
+teleport
+figma
+figma-agent
+github
+insomnia
+mysqlworkbench
+wireshark
