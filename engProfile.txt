@@ -6,7 +6,7 @@ microsoft-teams
 microsoft-auto-update
 warp
 chromium
-teleport
+teleport@16.4.7
 figma
 figma-agent
 github
